@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='psn-api',
     version='0.1',
-    packages=['psn-api'],
+    packages=['psnapi'],
     url='',
     license='',
     author='mgp25',
