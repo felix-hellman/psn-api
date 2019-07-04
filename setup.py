@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='psn-api',
+    name='psnapi',
     version='0.1',
     packages=['psnapi'],
     url='',
