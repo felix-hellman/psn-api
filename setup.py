@@ -6,8 +6,8 @@ setup(
     packages=['psn-api'],
     url='',
     license='',
-    author='istolethis',
-    author_email='istolethisrepo@gmial.com',
-    description='Imsorryomgbutthereisnoinstallinstructions'
+    author='mgp25',
+    author_email='me@mgp25.com',
+    description='Unoffical Sony Api'
 )
 
